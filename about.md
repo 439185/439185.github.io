@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Projek o Myšlenkových mapách s Myšlenkovými mapami :-D
+title: Projekt o myšlenkových mapách s myšlenkovými mapami :-D
 permalink: /about/
 ---
 
 Myšlenkových map se nemusíte bát :-)  
-Myšlenkové mapy slouží k názornému zobrazení spojitostí centrálního tématu mapy. Lze je použít pro time-management, brainstorming, to do list nebo třeba k vytvoření přehledného plánu dovolené.  
-Myšlenkové mapy podporují kreativnost a záleží jen na vás, jestli využijete řadu volně dostupných online nástrojů nebo vezmete do ruky pastelky.  
+Myšlenkové mapy slouží k názornému zobrazení spojitostí v rámci centrálního tématu. Lze je použít pro time-management, brainstorming, to do list nebo třeba k vytvoření přehledného plánu dovolené.  
+Myšlenkové mapy podporují kreativitu a záleží jen na vás, jestli využijete řadu volně dostupných online nástrojů nebo vezmete do ruky pastelky.  
 
 ## Za cíle projektu si klademe:  
  1. Představení myšlenkových map  
@@ -22,9 +22,9 @@ Myšlenkové mapy podporují kreativnost a záleží jen na vás, jestli využij
  ![Obrázky nejlepších myšlenkových map](http://blog.iqmatrix.com/wp-content/uploads/2009/03/How-to-Mind-Map-2000px.jpg)  
  
 ## Strategie  
-Informace, které budou naplňovat cíl našeho webu, budeme zveřejňovat na blogu, vždy pod příslušným názvem a číslem, aby bylo hned patrné čeho se bude konkrétní příspěvek týkat.  
+Informace, které budou naplňovat cíl našeho webu, budeme zveřejňovat na blogu, vždy pod příslušným názvem a číslem, aby bylo hned patrné, čeho se bude konkrétní příspěvek týkat.  
 V příspěvcích naleznete shrnutí informací z níže uvedených zdrojů, odkazy na další zajímavé články, tématické obrázky nebo videa.  
-Web je určen začátečníků v prostředí myšlenkových map, ale jeho náplň mohou využít zejména studenti, např. pro shrnutí přípravy na zkoušku. Dále náš projekt nabízí inspiraci, zejména oddíl nejlepších myšlenkových map, designerům webů, programátorům aplikací, tvůrcům reklam, apod... Jednoduše nabízíme inspiraci pro skupiny, kde je potřeba kreativní zhodnocení brainstormingu s výstupem logické provázanosti.  
+Web je určen začátečníkům v prostředí myšlenkových map, ale jeho náplň mohou využít zejména studenti, např. pro shrnutí přípravy na zkoušku. Dále náš projekt nabízí inspiraci, zejména oddíl nejlepších myšlenkových map, designérům webů, programátorům aplikací, tvůrcům reklam, apod... Jednoduše nabízíme inspiraci pro skupiny, kde je potřeba kreativní zhodnocení brainstormingu s výstupem logické provázanosti.  
   
 ## Zdroje & Publikace  
 - Článek Daniela Gamrota, lektora a mentora pro osobní produktivitu, o myšlenkových mapách  
